@@ -1,5 +1,3 @@
-![L'Maalem Screenshot](https://github.com/user-attachments/assets/97a6f5f2-c76c-4442-9612-5e0d355d9292)
-
 ### About Us
 
 **L'Maalem** is a nights & weekends startup project that aims to create a platform designed to connect users with skilled workers, such as electricians, plumbers, and handymen, in **LMAGHRIB** (Morocco). Our goal is to simplify the process of finding reliable professionals while ensuring fair conditions for workers.
